@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "products": [
+    {
+      "name": "Striped Handloom Saree",
+      "type": "Saree",
+      "Colors": [
+        "red"
+      ]
+    }
+  ]
+}
