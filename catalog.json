@@ -2,11 +2,94 @@
   "version": "1",
   "products": [
     {
-      "name": "Striped Handloom Saree",
-      "type": "Saree",
-      "Colors": [
-        "red"
-      ]
+      "productId": "BLMCSA00001",
+      "name": "Sequence with big pompom handloom saree",
+      "type": "saree",
+      "designDetails": [],
+      "colors": [
+        {
+          "colorId": "1",
+          "name": "Red"
+        },
+        {
+          "colorId": "2",
+          "name": "Yellow"
+        },
+        {
+          "colorId": "3",
+          "name": "Grey"
+        },
+        {
+          "colorId": "4",
+          "name": "White"
+        },
+        {
+          "colorId": "5",
+          "name": "Pink"
+        },
+        {
+          "colorId": "6",
+          "name": "Orange"
+        },
+        {
+          "colorId": "7",
+          "name": "Light Orange"
+        },
+        {
+          "colorId": "8",
+          "name": "Fuchsia"
+        },
+        {
+          "colorId": "9",
+          "name": "Bottle Green"
+        },
+        {
+          "colorId": "10",
+          "name": "Light Green"
+        },
+        {
+          "colorId": "11",
+          "name": "Blue"
+        },
+        {
+          "colorId": "12",
+          "name": "Purple"
+        },
+        {
+          "colorId": "13",
+          "name": "Charcoal"
+        },
+        {
+          "colorId": "14",
+          "name": "Black "
+        }
+      ],
+      "material": {
+        "category": "khadi",
+        "details": [
+          "Saree fabric: Khadi",
+          "Dry clean"
+        ]
+      },
+      "sizes": [
+        {
+          "sizeId": "1",
+          "name": "onesize",
+          "measurements": [
+            "Length: 5.5 metres plus 0.8 metre blouse piece",
+            "Width: 1 metre (approx.)"
+          ]
+        }
+      ],
+      "price": {
+        "salePrice": "100",
+        "discount": "0",
+        "discountPercent": "0",
+        "currency": "INR"
+      },
+      "additional": {
+        "blousePiece": "NA"
+      }
     }
   ]
 }
